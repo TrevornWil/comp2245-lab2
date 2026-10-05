@@ -1,3 +1,3 @@
 # COMP2245 Lab 2
 
-This is Lab 2 for Trevorn Williams
+This is Lab 2 for Trévorn Williams
